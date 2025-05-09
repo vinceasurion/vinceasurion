@@ -1,8 +1,10 @@
-Team: Product Solutions Engineering
+## **About me**
 
-Title: Software Engineer L3
+**Team**: Product Solutions Engineering (PSE)
 
-Projects:
+**Title**: Software Engineer L3
+
+**Projects**:
 
 - Address-Standardization
 - Field-App
